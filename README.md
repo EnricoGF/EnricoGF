@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python and Frontend (HTML5, CSS3)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EnricoGF?tab=repositories](https://github.com/EnricoGF?tab=repositories)
-
 - 📫 How to reach me **enricogaforte@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

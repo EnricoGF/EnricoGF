@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enrico</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
-- 🌱 I’m currently learning **Python and Frontend (HTML5, CSS3)**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EnricoGF?tab=repositories](https://github.com/EnricoGF?tab=repositories)
 
